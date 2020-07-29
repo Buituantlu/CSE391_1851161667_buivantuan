@@ -1,0 +1,19 @@
+.table {
+    border-collapse: collapse;
+    width: 100%; 
+    table-layout: fixed;
+}
+
+.table,tr, th,td{
+    border: 1px solid rgb(243, 178, 56);
+    margin: 0px;
+    padding: 0px;
+    font: tahoma;
+    font-size: 12px;
+}
+.img {
+    margin-left: 5%;
+    width: 90%; 
+    height: 120px;
+    margin-bottom: -5px;
+}

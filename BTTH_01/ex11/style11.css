@@ -1,0 +1,39 @@
+.body {
+    overflow: scroll;
+}
+
+.form {
+    position: relative;
+    left: 30%;
+    width: 40%;
+    box-shadow: 10px 10px 5px 5px rgb(184, 182, 182);
+
+}
+.h1 {
+    width: 100%;
+    text-align: center;
+    color: coral;
+}
+.table {
+    background-color: lightblue;
+    margin-left: 15%;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+.table,tr, th,td{
+    border: 1px solid rgb(243, 56, 212);
+    margin: 0px;
+    padding: 0px;
+    font: tahoma;
+    font-size: 12px;
+}
+.input {
+    width: 90%;
+    margin-left: 10px;
+}
+
+.button {
+    margin-left: 50%;
+}
