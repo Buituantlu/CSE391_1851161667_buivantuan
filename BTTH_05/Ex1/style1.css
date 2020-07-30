@@ -1,0 +1,19 @@
+#robot{
+    background-color: rgb(148, 143, 143);
+    width: 300px;
+    height: 50px;
+    
+}
+h2{
+    color: blue;
+}
+hr{
+    background-color: blue;
+    
+}
+.container{
+    margin-left: 0px;
+}
+.border{
+    border: 1px solid red;
+}
