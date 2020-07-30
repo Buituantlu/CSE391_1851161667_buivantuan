@@ -1,0 +1,11 @@
+$(document).ready(function(){
+    $(".circles").click(function(){ 
+        $(".circles").toggleClass("toggle"); 
+    });
+    $(".squares").click(function(){ 
+        $(".squares").toggleClass("squaresHalf"); 
+    });
+    $(".rectangles").click(function(){ 
+        $(".rectangles").toggleClass("rectanglesMove"); 
+    });
+});

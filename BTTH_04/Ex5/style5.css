@@ -1,0 +1,18 @@
+#row{
+    width:1000px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:7%;
+    display:block;
+    height: 350px;
+  }
+  
+  div.rectangles{
+    margin-top: 10px;
+     height:50px;
+     width:140px;
+     display:inline;
+     float:left;
+     background-color:steelblue;
+     margin-left: 12px;
+  }
